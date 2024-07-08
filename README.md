@@ -5,7 +5,6 @@ Brief description of your project.
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -24,13 +23,8 @@ Brief description of your project.
 
 Provide a brief introduction to your project, including its purpose and any key features.
 
-## Features
 
-List the key features or functionalities of your project.
 
-- Feature 1
-- Feature 2
-- ...
 
 ## Technologies Used
 
