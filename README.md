@@ -21,6 +21,7 @@ A full-stack web application built with React for the frontend, Node.js and Expr
 ```bash
 git clone https://github.com/Sarthar01/React_app.git
 cd React_app
+```
 
 Install Dependencies
 
@@ -42,6 +43,7 @@ Start the MongoDB server and then run:
 
 cd backend
 npm start
+The server will be available at http://localhost:5000.
 
 Frontend
 
