@@ -30,7 +30,6 @@ Provide a brief introduction to your project, including its purpose and any key 
 
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express, MongoDB
-- **Others**: PDFKit (for generating PDFs), etc.
 
 ## Getting Started
 
@@ -48,3 +47,21 @@ To get a local copy up and running, follow these steps.
    ```bash
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
+
+The frontend should now be running on http://localhost:3000.
+
+Usage
+Provide examples or instructions on how to use your project. Explain how to interact with the frontend interface and how it communicates with the backend.
+
+Contributing
+Explain how people can contribute to your project. Include guidelines for code formatting, submitting pull requests, etc.
+
+License
+Specify the license under which your project is distributed. For example:
+This project is licensed under the MIT License.
+
+Acknowledgements
+Give credit to any resources, libraries, or people whose code or work has been used in your project.
+
+Mention libraries/frameworks used (e.g., React, Express, Tailwind CSS)
+Links to GitHub repositories or websites of any third-party assets used (icons, images, etc.)
